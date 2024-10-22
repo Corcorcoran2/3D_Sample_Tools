@@ -1,3 +1,5 @@
+#UI for bringing in common custom nurbs shapes, like boxes, pyramids, sticks, etc. Saves time on having to NURBS curve
+#edit, as well as maintains consistency between shapes in the rig.
 import maya.cmds as cmds
 import controls
 
