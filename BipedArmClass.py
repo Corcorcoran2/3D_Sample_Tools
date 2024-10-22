@@ -1,3 +1,7 @@
+#One component of my autorigging system. Parameters are filled by selections made in the UI. A .py exists like this
+#for any component common to a biped or quadruped character, allowing for IK/FK, proper naming conventions, etc.
+#By creating rigs with this system other tools I've made like IK/FK matching can be used as well.
+
 import maya.cmds as cmds
 import ComponentClass
 import controls
